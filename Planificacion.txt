@@ -1,0 +1,9 @@
+htop
+vim (vim alias)
+guake
+guake.preference
+utorrent
+chrome
+chromium
+conky
+timeshift
