@@ -1,3 +1,7 @@
+para mostrar la ip
+xfce4-terminal -e 'bash -c "sleep 5 &&  ifconfig | grep 192; bash"'
+
+
 htop
 vim (vim alias)
 guake
